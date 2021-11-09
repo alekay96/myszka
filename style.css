@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Nothing You Could Do', cursive;
+  font-style: normal;
+  font-weight: 100%;
+}
+body {
+  background-color: #333333;
+  background-image: url("https://th.bing.com/th/id/OIP.KL53Oqb3rdIhJlPbYC7nhwHaEK?pid=ImgDet&rs=1");
+}
+.shuffle_text {
+  display: none;
+  padding: 5% 10%;
+  color: #FE0101;
+  font-family: 'Nothing You Could Do', cursive;
+  font-size: 70px;
+}
