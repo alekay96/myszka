@@ -7,8 +7,8 @@ body {
   background-color: #333333;
   background-image: url('https://alekay96.github.io/myszka/plakaty-diament-serce-na-czarnym-tle-milosc-walentynki.jpg');
   background-size: contain;
-  width: 99%;
-  height: 99%;
+  width: 100%;
+  height: auto;
 }
 .shuffle_text {
   display: none;
