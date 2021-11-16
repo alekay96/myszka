@@ -9,6 +9,8 @@ body {
   background-size: contain;
   width: 100%;
   height: auto;
+  float:left;
+  object-fit:cover;
 }
 .shuffle_text {
   display: none;
